@@ -1,2 +1,2 @@
-# risingsun-laravel-providers
+# laravel-providers
 laravel扩展库
